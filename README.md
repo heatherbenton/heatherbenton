@@ -4,14 +4,16 @@
 **heatherbenton/heatherbenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## I’m currently working on: 
+learning the MERN stack through MIT's Bootcamp.
 
+## I’m looking for help with: 
+pretty much anything. We all have to start somewhere.
 
-- 🔭 I’m currently working on learning the MERN stack through MIT's Bootcamp.
+## Ask me about:
+writing. I'm transitioning from a writing career into software development.
 
-- 🤔 I’m looking for help with pretty much anything. We all have to start somewhere.
-
-- 💬 Ask me about... writing. I'm transitioning from a writing career into software development.
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/heatherlbenton/)
+## How to reach me: 
+[LinkedIn](https://www.linkedin.com/in/heatherlbenton/)
 
 
