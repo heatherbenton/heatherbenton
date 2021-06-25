@@ -13,6 +13,11 @@ body {
   font-family: "Ubuntu", serif;
 }
 
+article {
+  max-width: 500px;
+  display: block;
+}
+
 img {
   animation: ease-in;
   display: -webkit-inline-flex;
@@ -62,7 +67,6 @@ p {
   margin: 25px 100px 25px 100px;
   text-overflow: clip;
 }
-
 
 ul {
   list-style-type: none;
@@ -184,9 +188,8 @@ text {
 
 }
 
-
 .limit {
-  width: 700px;
+  width: 500px;
   text-align: center;
   display: block;
   align-items: center;
@@ -229,6 +232,3 @@ text {
   font-size: 12;
 }
 
-.container {
-  grid-template-columns: repeat(3, 20px [col-start]);
-}
