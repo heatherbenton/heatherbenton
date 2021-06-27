@@ -13,10 +13,6 @@ body {
   font-family: "Ubuntu", serif;
 }
 
-article {
-  max-width: 500px;
-  display: block;
-}
 
 img {
   animation: ease-in;
@@ -56,17 +52,46 @@ h3 {
 
 p {
   color: black;
-  text-align: center;
-  display: block;
+  display: block center;
   font-size: 30;
   font-weight: lighter;
   font-family: "Ubuntu",
   serif;
-  flex-grow: 50%;
-  flex-shrink: initial;
-  margin: 25px 100px 25px 100px;
-  text-overflow: clip;
+  text-align: center;
+  min-width: 300px;
+  max-width: 600px center;
 }
+
+blockquote {
+  color: black;
+  display: block center;
+  font-size: 30;
+  font-weight: lighter;
+  font-family: "Ubuntu",
+  serif;
+  text-align: center;
+  min-width: 300px;
+  max-width: 600px center;
+}
+
+q {
+  color: black;
+  text-align: center;
+  display: block;
+  font-weight: lighter;
+  font-family: "Ubuntu",
+  serif;
+}
+
+cite {
+  color: black;
+  text-align: center;
+  display: block;
+  font-weight: lighter;
+  font-family: "Ubuntu",
+  serif;
+}
+
 
 ul {
   list-style-type: none;
@@ -230,5 +255,28 @@ text {
 .targetLinks {
   color: rgb(82, 81, 81);
   font-size: 12;
+}
+
+/* ----------- landscape and portrait phones ----------- */
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+
+}
+
+/* ----------- Non-Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
 }
 
