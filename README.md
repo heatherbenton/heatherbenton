@@ -3,8 +3,6 @@
 <!--
 **heatherbenton/heatherbenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## I live:
-in Michigan. Born on the east coast. Begrudgingly deal with the five-month winters. Adore the Great Lakes.
 
 ## I’m currently working on: 
 learning the MERN stack through MIT's Bootcamp.
