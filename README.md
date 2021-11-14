@@ -5,13 +5,13 @@
 -->
 
 ## I’m currently working on: 
-learning the MERN stack through MIT's Bootcamp.
+diving deeper into front-end development after completing MIT's ten-month bootcamp.
 
 ## I’m looking for help with: 
-pretty much anything. We all have to start somewhere.
+mostly JavaScript and React.
 
 ## Ask me about:
-writing. I'm transitioning from a writing career into software development.
+writing. 
 
 ## How to reach me: 
 [LinkedIn](https://www.linkedin.com/in/heatherlbenton/)
